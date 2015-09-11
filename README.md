@@ -1,0 +1,2 @@
+# nethserver-networkpackagemanager
+NetworkPackageManager for NethServer
